@@ -1,0 +1,6 @@
+{
+  "name": "AudioStudy",
+  "description": "Aplicación web instalable (PWA) para grabar, organizar por materias y reproducir notas de voz de estudio con controles Bluetooth y almacenamiento local seguro.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
